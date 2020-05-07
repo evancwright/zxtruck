@@ -1,0 +1,3 @@
+use zxasm.bat <file name> to create a .p file
+open taputils and select the .p file.
+Go to "save as" and give the file a wav extension
